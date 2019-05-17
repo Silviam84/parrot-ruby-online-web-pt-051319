@@ -1,3 +1,3 @@
 def sam = #{parrot}
-puts "parrot"
+puts parrot = "Squawk!
 end
